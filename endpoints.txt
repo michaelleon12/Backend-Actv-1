@@ -1,0 +1,38 @@
+
+	
+	Post:
+
+    http://localhost:3000/materias
+
+    http://localhost:3000/profesores
+
+    http://localhost:3000/eventos
+
+    http://localhost:3000/secciones
+
+
+
+	Get:
+    http://localhost:3000/profesores
+
+    http://localhost:3000/eventos/semanas
+
+    http://localhost:3000/eventos/listarSemanaMateria
+
+
+	Put:
+
+    http://localhost:3000/eventos/:id
+
+    http://localhost:3000/materias/:id
+
+    http://localhost:3000/materias/asignacion/:id
+
+
+	Delete:
+
+    http://localhost:3000/materias/asignacion/:id
+
+    http://localhost:3000/eventos/:id
+
+
